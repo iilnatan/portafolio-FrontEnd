@@ -1,0 +1,42 @@
+html {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+body {
+    margin: 0;
+    background-color: #C6C7C4;
+}
+
+nav {
+    color: white;
+    padding: 0.25rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: center;
+}
+nav .inicio {
+    color: black;
+    font-size: 2rem;
+    text-align: left;
+    margin: 25px; 
+    box-shadow: 0 0 12px  rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+.redes {
+    float: right;
+    padding: 0.25rem;
+    border: 0;
+    border-radius: 50%;
+    
+}
+.iconos {
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 0 0 12px  rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    
+    padding: 3rem;
+    margin: 0;
+}
